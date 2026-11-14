@@ -1,0 +1,9 @@
+# Core (Kaggle's default PyTorch image already has these; listed for reproducibility)
+torch>=2.0
+torchvision>=0.15
+numpy
+Pillow
+
+# Q1 ONNX deployment deliverable
+onnx
+onnxruntime
